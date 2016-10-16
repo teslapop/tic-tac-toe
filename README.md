@@ -1,2 +1,2 @@
-# tic-tac-toe
-tic tac toe
+# Javascript-Tiled-Grid
+Grid of tiled divs
