@@ -1,4 +1,5 @@
-.myClass:hover{
-	/*border:1px solid red;*/
+.block:hover{
+	border:1px solid red;
+	background: white;
 
 }
