@@ -1,6 +1,8 @@
 .block{
 	font-size: 75px;
-	padding-left: 0 auto;
+	cursor:default;
+
+
 	-webkit-touch-callout: none; /* iOS Safari */
 	-webkit-user-select: none;   /* Chrome/Safari/Opera */
 	-khtml-user-select: none;    /* Konqueror */
